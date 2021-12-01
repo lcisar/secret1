@@ -1,0 +1,13 @@
+.image {
+    position: relative;
+}
+.image .delete-image-btn,
+.image .edit-image-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+.image .edit-image-btn {
+
+}
